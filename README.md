@@ -37,12 +37,13 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**json-schema-builder**](https://github.com/AngusFu/json-schema-builder) | A JSON Schema Builder for LLMs structured data | TypeScript |
-| [**nuxt-companion**](https://github.com/AngusFu/nuxt-companion) | VSCode Extension for better Nuxt DX | TypeScript |
-| [**events_layout**](https://github.com/AngusFu/events_layout) | 日历日程布局算法 | Rust |
-| [**tailwind-config-viewer**](https://github.com/AngusFu/tailwind-config-viewer) | Local UI tool for visualizing Tailwind CSS config | Vue |
+| Project | Description | Stars |
+|---------|-------------|:-----:|
+| [**uc-qq-share-to-wechat**](https://github.com/AngusFu/uc-qq-share-to-wechat) | 触发手机 UC、QQ 浏览器的原生微信分享功能 | ⭐ 70 |
+| [**chrome-crawler**](https://github.com/AngusFu/chrome-crawler) | Chrome 插件版博客爬虫，支持自定义数据源 | ⭐ 17 |
+| [**webpack5-cdn-plugin**](https://github.com/AngusFu/webpack5-cdn-plugin) | Upload webpack-generated assets to CDN | ⭐ 10 |
+| [**webpack4-cdn-plugin**](https://github.com/AngusFu/webpack4-cdn-plugin) | Upload webpack assets to CDN with rename/hash | ⭐ 11 |
+| [**md2vue**](https://github.com/AngusFu/md2vue) | Transform Markdown to Vue component | ⭐ 5 |
 
 ---
 
